@@ -1,36 +1,41 @@
-# 🔁 Blinkz - Modified WhatsApp Bot
+# 🔁 Blinkz WhatsApp Bot (MOD VERSION)
 
-> 💡 **MOD VERSION of the original [Hitori WhatsApp Bot](https://github.com/nazedev/hitori)**  
-> ✨ Original Author: [Nazedev](https://github.com/nazedev)  
-> 🔧 Modified & Maintained by: [xyzdd](https://github.com/xyzd)
+[![GitHub Stars](https://img.shields.io/github/stars/xyzd/blinkz?style=social)](https://github.com/xyzd/blinkz/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/xyzd/blinkz?style=social)](https://github.com/xyzd/blinkz/network)
+[![GitHub License](https://img.shields.io/github/license/xyzd/blinkz)](./LICENSE)
+[![Original Project](https://img.shields.io/badge/Original-Hitori%20by%20Nazedev-blue)](https://github.com/nazedev/hitori)
+
+---
+
+> 💡 **This is a MODIFIED VERSION of the original [Hitori WhatsApp Bot](https://github.com/nazedev/hitori)**  
+> ✨ Created by: [Nazedev](https://github.com/nazedev)  
+> 🔧 Modified and maintained by: [xyzdd](https://github.com/xyzd)
 
 ---
 
 ## 📌 Disclaimer
 
-This project is a **modification of the original Hitori Bot** created by **Nazedev**.  
-All base features, structure, and foundation belong to the original creator.  
-I (xyzdd) only made enhancements, changes, or adjustments based on the original source code.  
-Please refer to [Hitori Repository](https://github.com/nazedev/hitori) for the original, unmodified version.
+This project is a **fork/modification of the open-source WhatsApp bot "Hitori" by Nazedev**.  
+All core functionalities and base logic were built by **Nazedev**.  
+I (xyzdd) only made changes such as:
+- Interface improvements
+- New features or command additions
+- Custom naming and branding (Blinkz)
+- Bug fixes and enhancements
+
+If you're looking for the **original, unmodified bot**, please visit:  
+👉 [https://github.com/nazedev/hitori](https://github.com/nazedev/hitori)
 
 ---
 
-## 📜 Original Project Info
+## 🔄 Blinkz - What's New?
 
-- **Project Name:** Hitori WhatsApp Bot
-- **Author:** [Nazedev](https://github.com/nazedev)
-- **License:** MIT
-- **Repository:** https://github.com/nazedev/hitori
-
----
-
-## 🔄 Blinkz Version (This Repo)
-
-This is a modified version with:
-- Additional features
-- Improved performance
-- Custom branding (Blinkz)
-- Small refactors and fixes
+This mod version introduces:
+- Better modular folder structure
+- Enhanced command responses
+- Additional plugins and API support
+- Improved error handling and auto-reconnect
+- Integration-ready with Arduino (for hardware notification)
 
 ---
 
