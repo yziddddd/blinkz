@@ -1,15 +1,15 @@
 # 🔁 Blinkz WhatsApp Bot (MOD VERSION)
 
-[![GitHub Stars](https://img.shields.io/github/stars/xyzd/blinkz?style=social)](https://github.com/xyzd/blinkz/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/xyzd/blinkz?style=social)](https://github.com/xyzd/blinkz/network)
-[![GitHub License](https://img.shields.io/github/license/xyzd/blinkz)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/yziddddd/blinkz?style=social)](https://github.com/yziddddd/blinkz/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/yziddddd/blinkz?style=social)](https://github.com/yziddddd/blinkz/network)
+[![GitHub License](https://img.shields.io/github/license/yziddddd/blinkz)](./LICENSE)
 [![Original Project](https://img.shields.io/badge/Original-Hitori%20by%20Nazedev-blue)](https://github.com/nazedev/hitori)
 
 ---
 
 > 💡 **This is a MODIFIED VERSION of the original [Hitori WhatsApp Bot](https://github.com/nazedev/hitori)**  
 > ✨ Created by: [Nazedev](https://github.com/nazedev)  
-> 🔧 Modified and maintained by: [xyzdd](https://github.com/xyzd)
+> 🔧 Modified and maintained by: [yziddddd](https://github.com/yziddddd)
 
 ---
 
@@ -17,7 +17,7 @@
 
 This project is a **fork/modification of the open-source WhatsApp bot "Hitori" by Nazedev**.  
 All core functionalities and base logic were built by **Nazedev**.  
-I (xyzdd) only made changes such as:
+I (yziddddd) only made changes such as:
 - Interface improvements
 - New features or command additions
 - Custom naming and branding (Blinkz)
@@ -42,7 +42,7 @@ This mod version introduces:
 ## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/xyzd/blinkz
+git clone https://github.com/yziddddd/blinkz
 cd blinkz
 npm install
 npm start
