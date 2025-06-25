@@ -1,6 +1,6 @@
-# Blinkz WhatsApp Bot
+# Information
 
-> Modified version of [Hitori](https://github.com/nazedev/hitori) by Nazedev  
+> Modified version of [Hitori](https://github.com/nazedev/hitori) by [Nazedev](https://github.com/nazedev) 
 > Recode and maintained by [xyzd](https://github.com/xyzd)
 
 Blinkz is a WhatsApp multi-device bot built using the Baileys library.  
