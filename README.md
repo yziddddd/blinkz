@@ -1,7 +1,5 @@
 ## 🔁 Blinkz WhatsApp Bot
 
-[![GitHub Stars](https://img.shields.io/github/stars/yziddddd/blinkz?style=social)](https://github.com/yziddddd/blinkz/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yziddddd/blinkz?style=social)](https://github.com/yziddddd/blinkz/network)
 [![GitHub License](https://img.shields.io/github/license/yziddddd/blinkz)](./LICENSE)
 [![Original Project](https://img.shields.io/badge/Original-Hitori%20by%20Nazedev-blue)](https://github.com/nazedev/hitori)
 
@@ -35,7 +33,6 @@ This mod version introduces:
 - Enhanced command responses
 - Additional plugins and API support
 - Improved error handling and auto-reconnect
-- Integration-ready with Arduino (for hardware notification)
 
 ---
 
