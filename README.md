@@ -1,14 +1,43 @@
-# Information
+# 🔁 Blinkz - Modified WhatsApp Bot
 
-> Modified version of [Hitori](https://github.com/nazedev/hitori) by [Nazedev](https://github.com/nazedev) 
-> Recode and maintained by [xyzd](https://github.com/xyzd)
+> 💡 **MOD VERSION of the original [Hitori WhatsApp Bot](https://github.com/nazedev/hitori)**  
+> ✨ Original Author: [Nazedev](https://github.com/nazedev)  
+> 🔧 Modified & Maintained by: [xyzdd](https://github.com/xyzd)
 
-Blinkz is a WhatsApp multi-device bot built using the Baileys library.  
-This project is based on Hitori but enhanced with additional features and improvements.
+---
 
-## License
+## 📌 Disclaimer
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is a **modification of the original Hitori Bot** created by **Nazedev**.  
+All base features, structure, and foundation belong to the original creator.  
+I (xyzdd) only made enhancements, changes, or adjustments based on the original source code.  
+Please refer to [Hitori Repository](https://github.com/nazedev/hitori) for the original, unmodified version.
 
-Original Copyright © 2023 Nazedev  
-Modified © 2025 xyzd
+---
+
+## 📜 Original Project Info
+
+- **Project Name:** Hitori WhatsApp Bot
+- **Author:** [Nazedev](https://github.com/nazedev)
+- **License:** MIT
+- **Repository:** https://github.com/nazedev/hitori
+
+---
+
+## 🔄 Blinkz Version (This Repo)
+
+This is a modified version with:
+- Additional features
+- Improved performance
+- Custom branding (Blinkz)
+- Small refactors and fixes
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/xyzd/blinkz
+cd blinkz
+npm install
+npm start
