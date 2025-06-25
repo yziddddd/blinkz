@@ -36,16 +36,6 @@ This mod version introduces:
 
 ---
 
-## 💖 Support This Project
-
-[![Support Nazedev](https://img.shields.io/badge/Support%20Nazedev-Saweria-yellow?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/nazedev)
-[![Support yziddddd](https://img.shields.io/badge/Support%20yziddddd-Saweria-orange?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/yziddddd)
-
-If you find this project useful or want to show appreciation, your donation means a lot.  
-It helps us keep the bot up to date and improve its features. Thanks for your support!
-
----
-
 ## ⚙️ Getting Started
 
 ```bash
@@ -53,5 +43,15 @@ git clone https://github.com/yziddddd/blinkz
 cd blinkz
 npm install
 npm start
+```
+---
+
+## 💖 Support This Project
+
+[![Support Nazedev](https://img.shields.io/badge/Support%20Nazedev-Saweria-yellow?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/nazedev)
+[![Support yziddddd](https://img.shields.io/badge/Support%20yziddddd-Saweria-orange?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/yziddddd)
+
+If you find this project useful or want to show appreciation, your donation means a lot.  
+It helps us keep the bot up to date and improve its features. Thanks for your support!
 
 ---
