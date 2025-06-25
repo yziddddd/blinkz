@@ -54,4 +54,3 @@ npm start
 If you find this project useful or want to show appreciation, your donation means a lot.  
 It helps us keep the bot up to date and improve its features. Thanks for your support!
 
----
