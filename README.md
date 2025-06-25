@@ -1,5 +1,4 @@
-# 🔁 Blinkz WhatsApp Bot
-# (MOD VERSION OF HITORI)
+## 🔁 Blinkz WhatsApp Bot
 
 [![GitHub Stars](https://img.shields.io/github/stars/yziddddd/blinkz?style=social)](https://github.com/yziddddd/blinkz/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/yziddddd/blinkz?style=social)](https://github.com/yziddddd/blinkz/network)
