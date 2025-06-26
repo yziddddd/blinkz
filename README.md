@@ -48,8 +48,8 @@ npm start
 
 ## 💖 Support This Project
 
-[![Support Nazedev](https://img.shields.io/badge/Support%20Nazedev-Saweria-yellow?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/nazedev)
-[![Support yziddddd](https://img.shields.io/badge/Support%20yziddddd-Saweria-orange?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/yziddddd)
+[![Support Nazedev](https://img.shields.io/badge/Support%20Nazedev-Saweria-yellow?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/naze)
+[![Support yziddddd](https://img.shields.io/badge/Support%20yziddddd-Saweria-orange?logo=buymeacoffee&style=for-the-badge)](https://saweria.co/xyzdd)
 
 If you find this project useful or want to show appreciation, your donation means a lot.  
 It helps us keep the bot up to date and improve its features. Thanks for your support!
