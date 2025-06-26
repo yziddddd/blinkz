@@ -39,6 +39,11 @@ This mod version introduces:
 ## ⚙️ Getting Started
 
 ```bash
+pkg update && pkg upgrade
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
+pkg install imagemagick
 git clone https://github.com/yziddddd/blinkz
 cd blinkz
 npm install
